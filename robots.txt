@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://femtobardprime84.github.io/sitemap.xml
